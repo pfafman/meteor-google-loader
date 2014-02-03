@@ -1,0 +1,9 @@
+{
+  "name": "google-loader",
+  "description": "Google API loader packaged for Meteor",
+  "homepage": "https://github.com/pfafman/meteor-google-loader",
+  "author": "Tim Pfafman (https://github.com/pfafman)",
+  "version": "0.0.1",
+  "git": "https://github.com/pfafman/meteor-google-loader.git",
+  "packages": {}
+}

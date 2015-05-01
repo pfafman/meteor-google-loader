@@ -1,7 +1,7 @@
 Package.describe({
+  name: "pfafman:google-loader",
   summary: 'Google API loader packaged for Meteor',
   version: "0.1.1",
-  name: "pfafman:google-loader",
   git: "https://github.com/pfafman/meteor-google-loader.git"
 });
 
